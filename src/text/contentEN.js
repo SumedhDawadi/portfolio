@@ -58,7 +58,7 @@ I am excited to bring my skills and experience to a new opportunity and to conti
 <p>
 A Vulnerability Assessment (VA) tool written in bash script <a rel="noreferrer" target="_blank" href="https://github.com/SumedhDawadi/Reconme">ReconMe</a> can be useful for information gathering and bug hunting, as well as for managing the attack surface of a computer system or network. This type of script can automate the process of identifying and assessing vulnerabilities, making it an efficient and effective tool for VA.
 </p>
-<b>Here are few of my skills that I'm confdent about: </b>
+<b>Here are few of my skills that I'm confident about: </b>
 <ul>
   <li> SOC (Security Operations Center).</li>
   <li>SIEM (Security Information and Event Management).</li>
