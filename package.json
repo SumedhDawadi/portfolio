@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "draggable_dialog": "^1.0.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1"
